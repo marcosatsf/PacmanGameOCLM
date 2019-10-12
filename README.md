@@ -22,13 +22,15 @@
 
 ##Steps for the fun (Download this repository and decompile it):
 1. Install DOSBox (if it's not already) and open it;
-2. Mount a directory (remember to mount it where you decompiled this repository), e.g.: `MOUNT C C:\users\maxmitnet\playpac`;
-3. Open it by writing the next command: `C:`;
+2. Mount a directory (remember to mount it where you decompiled this repository), e.g.:
+   + `MOUNT C C:\users\maxmitnet\playpac`;
+3. Open it by writing the next command: 
+   + `C:`;
 4. Compile using one of the 2 next methods:
-   4.1 Smart method (this method runs the game automatically):
-       `c PACMAN`
-   4.2 Slave method:
-       `TASM PACMAN.ASM`
-       `TLINK PACMAN.OBJ`
+   + Smart method (this method runs the game automatically):
+     *`c PACMAN`
+   + Slave method:
+     *`TASM PACMAN.ASM`
+     *`TLINK PACMAN.OBJ`
 5. Run it by writing `PACMAN`;
 6. Have fun!

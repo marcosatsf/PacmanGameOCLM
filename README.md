@@ -1,5 +1,3 @@
-# Pacman Game
-
 ![](https://github.com/marcosatsf/PacmanGameOCLM/blob/master/imgRepo/bannerPacman.png)
 > Written in Assembly x8086
 
@@ -11,12 +9,12 @@
 ![](https://github.com/marcosatsf/PacmanGameOCLM/blob/master/imgRepo/ranking.png)
 > Includes a ranking system for each map!
 
-# Requirements:
+## Requirements:
 - [x] TASM
 - [x] TLINK
 - [ ] `DOSBox` : <https://www.dosbox.com/>
 
-# Steps for the fun (Download this repository and decompile it):
+## Steps for the fun (Download this repository and decompile it):
 1. Install DOSBox (if it's not already) and open it;
 2. Mount a directory (remember to mount it where you decompiled this repository), e.g.:
    + `MOUNT C C:\users\maxmitnet\playpac`;
@@ -31,7 +29,7 @@
 5. Run it by writing `PACMAN`;
 6. Have fun!
 
-# Controls:
+## Controls:
 
 |   Control    |     Function    |
 |------------- | ----------------|

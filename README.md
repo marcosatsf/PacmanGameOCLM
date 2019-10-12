@@ -26,7 +26,7 @@
 + Slave method:
    + `TASM PACMAN.ASM`
    + `TLINK PACMAN.OBJ`
-5. Run it by writing `PACMAN`;
+5. Run it by typing `PACMAN`;
 6. Have fun!
 
 ## Controls:
